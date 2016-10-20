@@ -1,4 +1,4 @@
-#infdef C_OpenGL_h
+#ifndef C_OpenGL_h
 #define C_OpenGL_h
 
 #ifdef __APPLE__
