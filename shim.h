@@ -2,9 +2,9 @@
 #define C_OpenGL_h
 
 #ifdef __APPLE__
-#include <opengl/gl.h>
+#include <OpenGL/gl.h>
 #else
-#include <gl/gl.h>
+#include <GL/gl.h>
 #endif
 
 #endif
